@@ -2,8 +2,6 @@
 
 # 📰 Fake News Prediction using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## 📌 Overview
 
 This project aims to detect and classify **fake news** using natural language processing (NLP) and machine learning techniques. It helps users verify the authenticity of news articles based on their textual content.
