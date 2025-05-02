@@ -68,3 +68,32 @@ The dataset used is sourced from [Kaggle](https://www.kaggle.com/clmentbisaillon
    ```bash
    git clone https://github.com/yourusername/fake-news-prediction.git
    cd fake-news-prediction
+
+2. Install dependencies:
+
+   pip install -r requirements.txt
+
+3. Run the notebook:
+
+   jupyter notebook FND.ipynb
+
+## 📊 Results
+
+-Achieved high accuracy in detecting fake news
+
+-Confusion matrix and precision/recall scores indicate robust performance
+
+## 📈 Future Work
+
+-Deploy the model as a web application using Flask/Streamlit
+
+-Enhance the dataset with real-time news feeds
+
+-Experiment with deep learning models like LSTM or BERT
+
+## 📄 License
+
+-This project is licensed under the MIT License 
+
+
+
