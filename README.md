@@ -77,21 +77,21 @@ The dataset used is sourced from [Kaggle](https://www.kaggle.com/clmentbisaillon
 
 ## 📊 Results
 
--Achieved high accuracy in detecting fake news
+- Achieved high accuracy in detecting fake news
 
--Confusion matrix and precision/recall scores indicate robust performance
+- Confusion matrix and precision/recall scores indicate robust performance
 
 ## 📈 Future Work
 
--Deploy the model as a web application using Flask/Streamlit
+- Deploy the model as a web application using Flask/Streamlit
 
--Enhance the dataset with real-time news feeds
+- Enhance the dataset with real-time news feeds
 
--Experiment with deep learning models like LSTM or BERT
+- Experiment with deep learning models like LSTM or BERT
 
 ## 📄 License
 
--This project is licensed under the MIT License 
+- This project is licensed under the MIT License 
 
 
 
